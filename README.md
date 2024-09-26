@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mai Anh!
 
-🎓 I'm currently a student at Van Lang University majoring in Software Enginering. I'm passionate about technology and eager to learn new things every day.
+🎓 I'm currently a student at Van Lang University majoring in Software Engineering. I'm passionate about technology and eager to learn new things every day.
 
 ### 🌟 Skills & Technologies
 - Programming Languages: ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c) ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
