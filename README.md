@@ -14,9 +14,6 @@ Here are some of the projects that I've been working on:
 - [Travelling - Project](https://github.com/CRCAT25/Travelling-Project) - A website for booking hotel rooms nationwide, featuring hotel info, images, prices, andservices. Customers can search and book by date, guest count, and room number. Hotels can register their business on the platform, with a commission deducted frombookings.
 - [Recipes App - Project](https://github.com/maanhi1/Recipes-App) - A mobile application that allows users to view recipes, share their own, and interact withposts. The app also features search functionality, enabling users to fi nd recipes by typingcharacters or using preset suggestions.
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=maanhi1&theme=onedark&row=1&column=6)
-
 ## 🌟 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maanhi1&layout=compact&theme=radical)
 
