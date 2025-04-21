@@ -16,7 +16,7 @@ Here are some of the projects that I've been working on:
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maanhi1&show_icons=true&theme=graywhite" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maanhi1&show_icons=true&theme=graywhite" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maanhi1&layout=compact&theme=graywhite"/>
 </p>
 
